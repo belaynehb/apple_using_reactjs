@@ -1,6 +1,6 @@
 import Header from "./Components/Header/Header";
-import "./commonResource/css/styles.css";
 import "./commonResource/css/bootstrap.css";
+import "./commonResource/css/styles.css";
 import Alert from "./Components/Body/Alert/Alert";
 import FirstSection from "./Components/Body/Section1/FirstSection";
 import SecondSection from "./Components/Body/Section2/SecondSection";
